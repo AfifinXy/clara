@@ -32,19 +32,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['628974040065', '@finzzz', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
-global.nomorwa = '0'
+global.nomorbot = '6285921786491'
+global.nomorown = '628974040065'
+global.nomorwa = '628974040065'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'ShirokamiRyzen'
-global.namebot = 'Nao-Botz V5'
-global.wm = '© NaoBotz By ShirokamiRyzen'
+global.author = 'finzz'
+global.namebot = 'unknown'
+global.wm = '© unknown By finzz'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
@@ -62,19 +62,19 @@ global.lynk = ''
 
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
-global.sgc = '-' //group whatsapp
+global.sig = 'https://www.instagram.com/@finzzz_23'
+global.sgh = 'https://github.com/AfifinXy' //github
+global.sgc = 'https://chat.whatsapp.com/EMRFOrXiRTPCM85zxWCLRz' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.snh = 'https://www.instagram.com/@finzzz_23'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
-global.povo = '-'
-global.pgopay = '085174269046'
+global.pdana = '08974040065'
+global.povo = '081316693309'
+global.pgopay = '081316693309'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
+global.ppulsa = '08974040065'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
